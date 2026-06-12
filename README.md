@@ -8,8 +8,7 @@ Hola, soy Octavio 👋
 
 📫 Email: octa.buja@gmail.com
 
-💼 LinkedIn: linkedin.com/in/octavio-bujaldon-a8444732b/
-
+💼 LinkedIn: https://www.linkedin.com/in/octavio-bujaldon-a8444732b/
 
 Actualmente me encuentro desarrollando proyectos para fortalecer mis conocimientos en desarrollo backend, bases de datos y arquitecturas de aplicaciones.
 
