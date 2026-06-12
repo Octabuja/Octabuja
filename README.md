@@ -4,6 +4,13 @@ Hola, soy Octavio 👋
 
 💻 Desarrollador Backend Junior enfocado en Java y Spring Boot.
 
+📍 Málaga, España
+
+📫 Email: octa.buja@gmail.com
+
+💼 LinkedIn: linkedin.com/in/octavio-bujaldon-a8444732b/
+
+
 Actualmente me encuentro desarrollando proyectos para fortalecer mis conocimientos en desarrollo backend, bases de datos y arquitecturas de aplicaciones.
 
 Tecnologías
